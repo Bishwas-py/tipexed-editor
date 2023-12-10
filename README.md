@@ -7,3 +7,5 @@ This is a rich text editor developed for webmatrices using [Tipex](https://www.n
 ![image](https://github.com/Bishwas-py/tipexed-editor/assets/42182303/003c69b7-8fc6-4a1f-8946-80da7f17781a)
 
 ![image](https://github.com/Bishwas-py/tipexed-editor/assets/42182303/e770ec2c-0409-4fdd-bd47-febf89f1168f)
+
+![image](https://github.com/Bishwas-py/tipexed-editor/assets/42182303/b406527a-aaca-4a09-9e4f-09504ab95d73)
