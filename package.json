@@ -41,6 +41,8 @@
 	"type": "module",
 	"dependencies": {
 		"@friendofsvelte/tipex": "^0.0.1-act.3",
+		"@friendofsvelte/toasted": "^0.0.0-pre.0.2",
+		"@friendofsvelte/toggle": "^0.0.2-up-doc.0",
 		"iconify-icon": "^1.0.8"
 	}
 }

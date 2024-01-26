@@ -2,12 +2,7 @@
     import {tipexStore} from "$lib/discuss/tipexExtra";
 </script>
 
-<a class="bg-indigo-500 hover:bg-indigo-600
-        dark:bg-indigo-600 dark:hover:bg-indigo-700
-        text-white rounded-lg px-3 py-2
-        flex justify-center items-center
-        focus:scale-90 duration-200
-        shadow-sm font-semibold text-sm whitespace-nowrap"
+<a class="btn btn-primary"
         href="/?discuss"
         aria-label="Start a discussion"
 >

@@ -5,7 +5,26 @@
 
 
 @layer base {
-  body {
-    @apply bg-blue-50 dark:bg-neutral-900 text-neutral-900 dark:text-neutral-200;
-  }
+    body {
+        @apply bg-blue-50 dark:bg-neutral-900 text-neutral-900 dark:text-neutral-200;
+    }
+}
+
+@layer components {
+    .btn {
+        @apply text-white rounded-lg px-3 py-2
+        flex justify-center items-center
+        focus:scale-90 duration-200
+        shadow-sm font-semibold text-sm whitespace-nowrap;
+    }
+
+    .btn-primary {
+        @apply bg-indigo-500 hover:bg-indigo-600
+        dark:bg-indigo-600 dark:hover:bg-indigo-700;
+    }
+
+    .btn-secondary {
+        @apply bg-orange-500 hover:bg-orange-600
+        dark:bg-orange-600 dark:hover:bg-orange-700;
+    }
 }
